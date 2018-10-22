@@ -9,7 +9,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - This changelog file.
 - README file.
 - MIT License.
-- CI configuration files.
 - EditorConfig file.
 - `go.mod` file.
-- Tests.
